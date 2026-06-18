@@ -216,3 +216,21 @@
 | 8 | LOW | No Change | VoltAgent/awesome-agent-skills steady — ★ 25k (25,300 exact) and curated count 1,424+ (README badge confirmed) | COMPLETE (verified, no drift) |
 | 9 | LOW | No Change | Sort order preserved — no star crossings among research repos or vs manual rows | COMPLETE (verified) |
 | 10 | LOW | No Change | Manual entries untouched — impeccable (27k/1), addyosmani/agent-skills (27k/21), alirezarezvani/claude-skills (15k/246) — out of 5-repo research scope | COMPLETE (verified, manual entries preserved) |
+
+---
+
+## [2026-06-18 08:08 AM PKT] Skill Collections Update
+
+| # | Priority | Type | Action | Status |
+|---|----------|------|--------|--------|
+| 1 | LOW | Star | Update anthropics/skills ★ from 151k to 152k (GitHub HTML shows 152k — +1k) | RECURRING (routine star bumps logged 2026-05-12, 2026-05-20, 2026-05-25, 2026-05-31, 2026-06-04, 2026-06-05, 2026-06-11, 2026-06-15) |
+| 2 | HIGH | Star | Update mattpocock/skills ★ from 129k to 134k (GitHub HTML shows 134k — +5k, eleventh consecutive amplification event) | RECURRING (surges logged 2026-05-01 +15k, 2026-05-12 +25k, 2026-05-20 +21k, 2026-05-25 +7k, 2026-05-31 +9k, 2026-06-04 +4k, 2026-06-05 +1k, 2026-06-07 +2k, 2026-06-11 +5k, 2026-06-15 +4k) |
+| 3 | MEDIUM | Count | Update mattpocock/skills active skill count from 25 to 30 (engineering 14, productivity 5, misc 4, in-progress 5, personal 2; 4 deprecated excluded — engineering +4, in-progress +1 since 2026-06-15) | NEW |
+| 4 | LOW | Star | Update K-Dense-AI/scientific-agent-skills ★ from 28k to 29k (GitHub HTML shows 28.6k → rounds to 29k — +1k) | RECURRING (star bumps logged 2026-05-20, 2026-05-25, 2026-05-31, 2026-06-11) |
+| 5 | LOW | Star | Update VoltAgent/awesome-agent-skills ★ from 25k to 26k (GitHub HTML shows 25.7k → rounds to 26k — +1k) | RECURRING (star bumps logged 2026-05-12, 2026-05-20, 2026-05-25, 2026-05-31, 2026-06-11) |
+| 6 | LOW | No Change | anthropics/skills skill count steady at 17 | COMPLETE (verified, no drift) |
+| 7 | LOW | No Change | K-Dense-AI/scientific-agent-skills count steady at 147 (README badge confirmed) | COMPLETE (verified, no drift) |
+| 8 | LOW | No Change | VoltAgent/awesome-agent-skills curated count steady at 1,424+ (README badge confirmed) | COMPLETE (verified, no drift) |
+| 9 | LOW | No Change | wshobson/agents steady — ★ 37k (36.9k exact, still rounds to 37k) and skills 156 | COMPLETE (verified, no drift) |
+| 10 | LOW | No Change | Sort order preserved — 29k (K-Dense-AI) still below 37k (wshobson), 26k (VoltAgent) still below 27k manual rows; no row reordering needed | COMPLETE (verified) |
+| 11 | LOW | No Change | Manual entries untouched — impeccable (27k/1), addyosmani/agent-skills (27k/21), alirezarezvani/claude-skills (15k/246) — out of 5-repo research scope | COMPLETE (verified, manual entries preserved) |

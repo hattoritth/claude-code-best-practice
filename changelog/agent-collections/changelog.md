@@ -10,6 +10,17 @@ Tracks updates to the AGENT COLLECTIONS table in `README.md`.
 
 ---
 
+## [2026-06-21 08:36 AM PKT] Agent Collections Update
+
+| # | Priority | Type | Action | Status |
+|---|----------|------|--------|--------|
+| 1 | HIGH | Star | Update msitarzewski/agency-agents ★ from 114k to 115k | COMPLETE (GitHub API: 114,747 exact; rounds to 115k; k-boundary crossed; NEW — milestone crossing) |
+| 2 | HIGH | Count | Update msitarzewski/agency-agents agents from 271 to 232 | COMPLETE (per-division manual tally from recursive git tree = 232; matches README stated "232 Specialized Agents across 16 divisions"; strategy/ reclassified as non-agent in Jun 18 repo commit; integrations/ excluded per Jun 16 repo commit; conf 0.92; RECURRING correction — table set to 271 on Jun 15 before architecture clarification) |
+| 3 | LOW | Count | VoltAgent/awesome-claude-code-subagents agents 156 → 153–154 (−2 to −3) | INVALID (RECURRING oscillation; within documented 154–158 range; repo has 153 .md files, README claims 154; −2 net is within ±3 threshold; conf 0.91 insufficient to override; no change) |
+| 4 | LOW | Sort | Verify sort order (115k > 22k — stars descending) | COMPLETE (order preserved; RECURRING) |
+
+---
+
 ## [2026-06-18 08:36 AM PKT] Agent Collections Update
 
 | # | Priority | Type | Action | Status |

@@ -87,6 +87,14 @@ Set `"disableAllHooks": true` in `.claude/settings.local.json`, or disable indiv
 
 When the user asks a Claude Code best practice question, **always search this repo first** (`best-practice/`, `reports/`, `tips/`, `implementation/`, and `README.md`) before relying on training knowledge or external sources. This repo is the authoritative source — only fall back to external docs or web search if the answer is not found here.
 
+## Repository Knowledge Placement
+
+- Cross-agent repository rules and verification expectations: `AGENTS.md`
+- Durable failure records and changed judgments: `tasks/lessons.md`
+- Markdown output conventions: `.claude/rules/markdown-docs.md`
+- Presentation-specific rules: `.claude/rules/presentation.md`
+- Source-backed references: `README.md`, `best-practice/`, `reports/`, `tips/`, and `videos/`
+
 ## Workflow Best Practices
 
 From experience with this repository:

@@ -12,6 +12,12 @@ on duplicating Claude Code documentation.
 - Keep new shared rules small; prefer updating the nearest existing document
   before creating a new top-level file.
 
+## Skill Entry Points
+
+- Use `.agents/skills/claude-code-reference-maintenance/SKILL.md` for Claude Code
+  reference notes, `CLAUDE.md` guidance, examples, reports, tips, videos, or
+  cross-agent rule updates.
+
 ## Where Knowledge Belongs
 
 - Claude Code workflow notes: `CLAUDE.md` and `.claude/rules/`.
